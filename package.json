@@ -1,0 +1,19 @@
+{
+  "name": "lib-auction",
+  "version": "1.0.14",
+  "description": "Use for project auction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hieucbdev/lib-auction"
+  },
+  "author": "hieucuopbien123",
+  "license": "ISC",
+  "dependencies": {
+    "eth-util-lite": "^1.0.1",
+    "isomorphic-rpc": "^1.2.2"
+  }
+}

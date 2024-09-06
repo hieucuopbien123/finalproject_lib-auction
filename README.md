@@ -1,0 +1,1 @@
+# Lib for auction project
